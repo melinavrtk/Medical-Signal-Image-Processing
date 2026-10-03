@@ -2,7 +2,7 @@
 
 This repository contains advanced Python implementations for biomedical signal processing (ECG), medical image enhancement, CT image reconstruction, and statistical machine learning. It leverages Python's scientific ecosystem (`numpy`, `scipy`, `skimage`, `cv2`, `pandas`, `scikit-learn`) to solve real-world biomedical engineering problems.
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### 1. Medical Image Processing & Reconstruction
 * **`ct_image_reconstruction.py`**: Simulates CT scanner projections (Radon Transform) and performs image reconstruction using Filtered Back Projection (FBP) and Algebraic Reconstruction Techniques (SART). Includes RMSE error evaluation.
@@ -19,7 +19,7 @@ This repository contains advanced Python implementations for biomedical signal p
 * **`biostatistics_hypothesis_testing.py`**: Clinical trial statistical testing. Implements One/Two-Sample T-Tests, Wilcoxon Signed-Rank tests, ANOVA, and Kruskal-Wallis H-tests.
 * **`multiple_linear_regression_heart.py`**: Multi-feature regression analysis on a heart disease dataset. Evaluates multiple algorithms (Linear, Huber, Ridge, Lasso, ElasticNet), handles multicollinearity, and tests feature combinations.
 
-## 📌 Acknowledgments & Context
+## Acknowledgments & Context
 The mathematical foundations and initial implementations for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
 
 The current repository represents a modernized evolution of those academic assignments. The original MATLAB and procedural scripts have been translated, rewritten into Object-Oriented Python, vectorized for performance, and structured into professional pipelines to bridge the gap between academic theory and industry standards.
