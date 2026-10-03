@@ -18,3 +18,11 @@ This repository contains advanced Python implementations for biomedical signal p
 ### 3. Biostatistics & Machine Learning
 * **`biostatistics_hypothesis_testing.py`**: Clinical trial statistical testing. Implements One/Two-Sample T-Tests, Wilcoxon Signed-Rank tests, ANOVA, and Kruskal-Wallis H-tests.
 * **`multiple_linear_regression_heart.py`**: Multi-feature regression analysis on a heart disease dataset. Evaluates multiple algorithms (Linear, Huber, Ridge, Lasso, ElasticNet), handles multicollinearity, and tests feature combinations.
+
+## 📌 Acknowledgments & Context
+The mathematical foundations and initial implementations for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
+
+The current repository represents a modernized evolution of those academic assignments. The original MATLAB/procedural scripts have been translated, rewritten into Object-Oriented Python, vectorized for performance, and structured into professional pipelines to bridge the gap between academic theory and industry standards.
+
+---
+*Curated, refactored, and optimized by a final-year Biomedical Engineering student (University of West Attica), specializing in AI and Medical Data Science.*
